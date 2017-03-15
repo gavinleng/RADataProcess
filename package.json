@@ -1,0 +1,13 @@
+{
+  "name": "RADataProcess",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "kernel-smooth": "^0.2.2",
+    "lodash": "^3.10.1",
+    "sync-request": "^3.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "credentials":"HJeL6EVD-:123abc",
+  "sourceFile":"./radistData.json",
+  "dataPath": "data",
+  "basedOnSchema": "RaDclgDataDistribution",
+  "targetFolder": "HJe3jehf6",
+  "upsertMode": false
+}
